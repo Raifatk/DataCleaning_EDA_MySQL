@@ -1,4 +1,4 @@
-### SQL Project - Data Cleaning and Exploratory Data Analysis ###
+# SQL Project - Data Cleaning and Exploratory Data Analysis #
 
 ## Overview
 This project involves cleaning and analyzing the Layoffs from 2020 to 2023 dataset obtained from Kaggle. The objective is to prepare the data for analysis and gain insights into layoffs trends in various industries.
@@ -26,12 +26,12 @@ The dataset used for this project is from Kaggle: [Layoffs Dataset](https://www.
 5. **Data Cleanup**: 
    - Unnecessary columns and rows are removed from the dataset to streamline further analysis.
 
-## Exploratory Data Analysis (EDA)
-- Explored the dataset to find trends, patterns, and outliers.
-- Investigated the extent of layoffs by analyzing total numbers and percentages.
-- Examined companies with significant layoffs, both in terms of absolute numbers and percentages.
-- Explored trends over time by analyzing layoffs per year and per month.
-- Investigated layoffs based on location, country, industry, and company stage.
+  **Exploratory Data Analysis (EDA)**
+   - Explored the dataset to find trends, patterns, and outliers.
+   - Investigated the extent of layoffs by analyzing total numbers and percentages.
+   - Examined companies with significant layoffs, both in terms of absolute numbers and percentages.
+   - Explored trends over time by analyzing layoffs per year and per month.
+   - Investigated layoffs based on location, country, industry, and company stage.
 
 ## Results
 - Identified companies with the largest layoffs and observed trends over time.
